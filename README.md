@@ -15,3 +15,7 @@ gradle build
 
 - Seguindo arquitetura hexagonal, ou seja, o "core" da aplicacao deve ser agnostico de API, banco de dados, e qualquer
   dependencia externa.
+
+## Banco de Dados
+
+- O Banco de dados esta no H2 , subindo em memério para os testes.
