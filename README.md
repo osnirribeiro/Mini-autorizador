@@ -18,4 +18,4 @@ gradle build
 
 ## Banco de Dados
 
-- O Banco de dados esta no H2 , subindo em memério para os testes.
+- O Banco de dados esta no H2 , subindo em memório para os testes.
